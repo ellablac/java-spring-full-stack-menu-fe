@@ -1,6 +1,16 @@
-.App {
-  text-align: center;
+.MenuList {
+  float: left;
+  border-right-style: dotted;
+  padding: 5px;
 }
+.MenuSummary {
+  cursor: pointer;
+  text-align: left;
+}
+
+.App {
+  text-align: center; 
+ }
 
 .App-logo {
   height: 40vmin;
